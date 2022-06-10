@@ -1,0 +1,66 @@
+
+/* Utility Styles Begin */
+.background {background: url(../images/nza_background.jpg) no-repeat center center fixed;
+    }
+
+.wrapper {
+    margin: 0 20%;
+    background-color: white;
+    padding: 0 2rem;
+}
+
+body {
+    margin: 0px;
+}
+
+/* Utility Styles End */
+
+/* Header Styles Begin */
+.login {
+    text-align: end;
+
+}
+
+.login-button {
+    background-color: #CCC;
+    color: white;
+    border-radius: 3px;
+    font-size: .6rem;
+    padding: .3rem .4rem;
+    border: none;
+}
+
+.logo {
+    display: flex;
+}
+
+.firm-name {
+    width: 230px;
+    font-size: 30px;
+}
+
+nav {
+    border-top: 1px solid;
+    border-bottom: 1px solid ;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    padding: 0px;
+    font-size: 0.6rem;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* Header Styles END */
+
+/* Main Styles Begin */
+
+/* Main Styles END */
+
+/* Footer Styles Begin */
+
+/* Footer Styles END */
